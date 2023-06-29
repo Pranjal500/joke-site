@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+.container{
+    position: relative;
+    background: inherit;
+    overflow: hidden;
+     padding: 40px; 
+      margin: 20vh 20vh 20vh 40vh;  
+     width: 50%;
+    height: 70%; 
+    border-radius: 16px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3), 
+                0 6px 20px rgba(0, 0, 0, 0.15);
+    z-index: 1;
+    
+}
+#joke{
+   font-family:Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-display: bold;
+  background-color:rgb(211, 205, 205);
+  border-radius: 10px;
+  padding: 20px;
+}
+#jokebtn{
+    padding: 5px 30px 5px 30px;
+    margin-left: 45%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  border-radius: 16px;
+ 
+ 
+}
